@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ancrode.github.io/sitemap.html.gz
+Sitemap: https://ancrode.github.io/app/sitemap.html.gz
+Sitemap: https://ancrode.github.io/assets/sitemap.html.gz
+Sitemap: https://ancrode.github.io/css/sitemap.html.gz
+Sitemap: https://ancrode.github.io/data/sitemap.html.gz
+Sitemap: https://ancrode.github.io/includes/sitemap.html.gz
+Sitemap: https://ancrode.github.io/item/sitemap.html.gz
+Sitemap: https://ancrode.github.io/src/sitemap.html.gz
